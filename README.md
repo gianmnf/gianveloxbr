@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there / Olá 👋
 
 <!--
-**gianveloxbr/gianveloxbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gianveloxbr/gianveloxbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+[![](https://img.shields.io/badge/-Gian%20Michel-black?style=round-square&labelColor=black&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/gian-michel-2892a5139/)](https://www.linkedin.com/in/gian-michel-2892a5139/)
+[![](https://img.shields.io/badge/-gmail-black?style=round-square&labelColor=red&logo=gmail&logoColor=white&link=mailto:gianmnf@unipam.edu.br)](http://link%3Dmailto:gianmnf@unipam.edu.br/)
+[![](https://img.shields.io/badge/-steam-black?style=round-square&labelColor=darkblue&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/veloxSZ)](https://steamcommunity.com/id/veloxSZ)
+<img src="https://komarev.com/ghpvc/?username=gianveloxbr" alt="gianveloxbr" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 I’m currently working on / Atualmente trabalho na: [Prefeitura de Patos de Minas](https://patosdeminas.mg.gov.br/portal/)
+- 🌱 I’m currently learning / Atualmente estou aprendendo: [Laravel](https://laravel.com) / [React Native](https://reactnative.dev)
+- 👨‍💻 I'm on the last semester of my graduation course / Estou no último período do meu curso de graduação: [Sistemas de Informação](https://graduacao.unipam.edu.br/curso.php?id=MTQ=)
+- ⚡ My focus actually is into finishing my graduation final project / Meu foco atualmente é finalizar o projeto final do meu curso de graduação: QuickClass
