@@ -9,4 +9,4 @@
 - 🚀 I’m currently working on / Atualmente trabalho na: [Prefeitura de Patos de Minas](https://patosdeminas.mg.gov.br/portal/)
 - 🌱 I’m currently learning / Atualmente estou aprendendo: [Laravel](https://laravel.com) / [React Native](https://reactnative.dev)
 - 👨‍💻 I'm on the last semester of my graduation course / Estou no último período do meu curso de graduação: [Sistemas de Informação](https://graduacao.unipam.edu.br/curso.php?id=MTQ=)
-- ⚡ My focus actually is getting a full-time job: [QuickClass](https://github.com/gianveloxbr/QuickClass)
+- ⚡ My focus actually is getting a full-time job ⚡
