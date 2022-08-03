@@ -6,6 +6,6 @@
 [![](https://img.shields.io/badge/-steam-black?style=round-square&labelColor=darkblue&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/veloxSZ)](https://steamcommunity.com/id/veloxSZ)
 <img src="https://komarev.com/ghpvc/?username=gianveloxbr" alt="gianveloxbr" />
 
-- 🚀 Currently working as a Junior FullStack Developer at / Atualmente trabalho como Desenvolvedor FullStack Junior na [Rastreagro](https://rastreagro.com)
-- 🌱 I’m currently working with / Atualmente estou trabalhando com: [React Native](https://reactnative.dev)
+- 🚀 Currently working as a FullStack Developer at [Rastreagro](https://rastreagro.com) / Atualmente trabalho como Desenvolvedor FullStack na [Rastreagro](https://rastreagro.com)
+- 🌱 I’m currently working with / Atualmente estou trabalhando com: [React JS](https://react-js.org), [NestJS](https://nestjs.com) & [PostgreSQL](https://www.postgresql.org/)
 - 👨‍💻 I've completed my Graduation Course in 2020 / Completei meu Curso de Graduação em 2020: [Sistemas de Informação](https://graduacao.unipam.edu.br/curso.php?id=MTQ=)
